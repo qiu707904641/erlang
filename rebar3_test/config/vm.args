@@ -1,0 +1,6 @@
+-sname rebar3_test
+
+-setcookie rebar3_test_cookie
+
++K true
++A30
